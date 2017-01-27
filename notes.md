@@ -45,6 +45,15 @@ The models used in the class were supervised ones mostly.
 In 3 to 4 of the firsts classes, we learned about base of ML of
 probability, algebras, model complexity, overfitting, and bias and variance.
 
+Its assignments were exciting.
+As in Japan, we had some mathematical problems of symbolic calculation and
+proofs.
+In addition to them, we had competitions in our homework a few times.
+To hold the competitions, the professor of the ML class used an online service
+named Kaggle.
+It is famous among ML and data science researchers and students and holds
+some public competitions of ML and data analytics.
+
 
 ### Research
 
