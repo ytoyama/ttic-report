@@ -34,6 +34,10 @@ They were pretty expensive by 30 dollars per bottle.
 
 I took a class of Machine Learning, titled Introduction to Statictical Machine
 Learning.
+At first, I was also taking a class of Mathematical Toolkit.
+But, I found that it took too much time from me so that I cannot have time
+to work on my research.
+Therefore, I calceled it and focused on the ML class and my research task.
 
 
 ### Research
