@@ -53,7 +53,20 @@ It is the neural network library I am the most familiar with and
 has a distributed computing feature, and cloud and other commercial support
 by Google.
 
-TTIC has
+TTIC has 2 clusters of Gauda and Slurm.
+The former one is an older one and an adiministrator said its resources can be
+merged into the Slurm cluster.
+The latter one is a newer one.
+It is equipped with a bunch of (around 20) computers with multiple CPUs and
+GPUs.
+It is a sophisticated environment for research.
+Anybody in TTIC can use them if their permissions are granted.
+There are many tools and libraries like OpenMP and Eigen to exploit multiple
+CPUs in a box.
+Moreover, some tools and libraries provides convevient ways to deploy programs
+onto multiple devices and create a distributed system which consists of
+multiple processes running on them.
+
 
 
 ## How to make use of the experience
@@ -63,4 +76,5 @@ at TTIC to my research work.
 The best knowledge I got there is one about distributed computing and
 how to exploit multiple GPUs and CPUs over multiple devices in a network or
 cluster.
-Although my laboratory does not have any cluster like ones in TTIC
+Although my laboratory does not have any cluster like ones in TTIC,
+the techniques and tools like can be applied.
