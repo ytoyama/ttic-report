@@ -39,6 +39,12 @@ But, I found that it took too much time from me so that I cannot have time
 to work on my research.
 Therefore, I calceled it and focused on the ML class and my research task.
 
+In the ML class, we studied about themes of wide range from basic ML
+to its application and some state-of-the-art stuffs like Neural Network.
+The models used in the class were supervised ones mostly.
+In 3 to 4 of the firsts classes, we learned about base of ML of
+probability, algebras, model complexity, overfitting, and bias and variance.
+
 
 ### Research
 
