@@ -57,6 +57,12 @@ We had 4 competitions of multivariate logistic regression of MNIST hand-written
 digit classifiaction, linear and non-linear SVM of sentiment analysis,
 Gaussian mixture model, and Multi Layer Perceptron.
 
+There were some extra lectures too in the class.
+They were held usually on Monday or Wednesday and their topics were ones
+which cannot be dealt with because of time limitation,
+like Programming in Python and NumPy, Principal Component Analysis (PCA),
+and Convex Optimization.
+
 
 ### Research
 
