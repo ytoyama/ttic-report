@@ -53,6 +53,9 @@ To hold the competitions, the professor of the ML class used an online service
 named Kaggle.
 It is famous among ML and data science researchers and students and holds
 some public competitions of ML and data analytics.
+We had 4 competitions of multivariate logistic regression of MNIST hand-written
+digit classifiaction, linear and non-linear SVM of sentiment analysis,
+Gaussian mixture model, and Multi Layer Perceptron.
 
 
 ### Research
