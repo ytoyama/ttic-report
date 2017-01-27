@@ -96,7 +96,6 @@ onto multiple devices and create a distributed system which consists of
 multiple processes running on them.
 
 
-
 ## How to make use of the experience
 
 Especially on research, I am pretty sure that I can apply knowledge I got
@@ -105,4 +104,19 @@ The best knowledge I got there is one about distributed computing and
 how to exploit multiple GPUs and CPUs over multiple devices in a network or
 cluster.
 Although my laboratory does not have any cluster like ones in TTIC,
-the techniques and tools like can be applied.
+the techniques and tools can be applied.
+For example, I have developed a command framework built on top of TensorFlow
+which supports both single and multiple machine,
+which means that a command of model training or inference is created with it,
+the command can run on both local machine and distributed system.
+It is currently beta version but going to be great foundation
+of my future work.
+
+The experience that I talked with students with top-level knowledge on ML was
+also great opportunity to enhance my one and improve my conversational skill in
+English.
+I made some Chinese friends at TTIC.
+Honestly speaking, there was some prejudice about Chinese people in my mind.
+It disappeared after talking with them face to face.
+We talked about even sensitive topics from political one to historical one,
+such as Tiananmen Square protests and Nanking massacre.
