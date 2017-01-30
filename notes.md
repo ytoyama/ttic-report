@@ -47,7 +47,7 @@ They sell variety of them, such as hamburgers, hotdogs, sandwiches, tacos and
 rice bowls.
 A few weeks after classes started, Chinese food delivery by a restaurant,
 Sweet Station also started.
-It also dealt in many kinds of Chinese foods from lunchbox-style ones to
+It also served many kinds of Chinese foods from lunchbox-style ones to
 noodles and soups.
 
 
