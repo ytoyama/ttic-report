@@ -6,6 +6,11 @@ rule '.pdf' => '.md' do |t|
 end
 
 
+task :view => 'notes.pdf' do
+  sh 'mupdf notes.pdf'
+end
+
+
 task :default => 'notes.pdf'
 
 
