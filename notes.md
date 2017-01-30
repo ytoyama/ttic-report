@@ -17,7 +17,7 @@ Our apartment was pretty good.
 It was much larger than we thought.
 And, we could see great views of the Michigan lake and Chicago city.
 It also has its own restaurant and grocerry store, which were convenient
-when we don't want to go outside at cold night.
+when we do not want to go outside at cold night.
 
 There was a supermarket named Whole Foods near our apartment.
 It was a little more expensive than other ones but sold healthy and organic
@@ -32,6 +32,14 @@ When I arrived there, I had hay fever which I never had in the same season
 in Japan.
 So, I needed to buy medicine againt it.
 They were pretty expensive by 30 dollars per bottle.
+
+We did not have any difficulty to get good foods around TTIC.
+There are many shops and restaurants around it.
+In an early week, some students at TTIC took us to a Asian noodle restaurant
+called Noodles.
+I ordered a Singapore noodle and it was really good.
+I also became relieved because it was confirmed that we can get some Asian
+foods there.
 
 
 ## Study
