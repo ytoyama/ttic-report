@@ -6,7 +6,7 @@ Yota Toyama (Student ID: 16423), Computational Intelligence Laboratory
 ## Life
 
 After I and Tsujimura got the O'Hare airport, we took a train and a bus to go
-to our apartment in the south side of the downtown.
+to our apartment on the south side of the downtown.
 When getting off a bus, we were just standing to wait for its doors to be open.
 But, they did not.
 After a while, passengers behind us told that we should push the door to get
@@ -47,7 +47,7 @@ They sell variety of them, such as hamburgers, hotdogs, sandwiches, tacos and
 rice bowls.
 A few weeks after classes started, Chinese food delivery by a restaurant,
 Sweet Station also started.
-It also dealed in many kinds of Chinese foods from lunchbox-style ones to
+It also dealt in many kinds of Chinese foods from lunchbox-style ones to
 noodles and soups.
 
 
@@ -80,7 +80,7 @@ To hold the competitions, the professor of the ML class used an online service
 named Kaggle.
 It is famous for ML and data science community and holds
 some public programming competitions of ML and data analytics.
-We had 4 competitions of multivariate logistic regression of MNIST hand-written
+We had 4 competitions of multivariate logistic regression of MNIST handwritten
 digit classification, linear and non-linear SVM of sentiment analysis,
 Gaussian mixture model, and Neural Network of Multi-Layer Perceptron.
 
@@ -136,7 +136,7 @@ Second, it prepares processes of a master and slaves on each node in the
 cluster to start negotiation before training.
 The master process coordinates all processes for training and conduct
 evaluations, if requested to do so at the beginning, and
-slaves executes training exclusively.
+slaves execute training exclusively.
 Finally, all processes starts their work and cooperate as a large and
 distributed system.
 I believe that boosts research cycle enormously because we usually need to
