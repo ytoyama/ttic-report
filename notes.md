@@ -96,7 +96,7 @@ While I am working on Sentiment Classifiaction at TTI in Japan,
 I asked Mr. McAllester to give a different task to learn something which is
 different from Sentiment Classifiaction and appropriate for me to learn
 in TTIC.
-I tried implementing a model proposed by Rudolf Kadlec et al.  so called
+I tried implementing a model proposed by Rudolf Kadlec et al. so called
 Attention Sum Reader.
 The library I used is TensorFlow.
 It is the neural network library I am the most familiar with and
@@ -113,9 +113,24 @@ It is a sophisticated environment for research.
 Anybody in TTIC can use them if their permissions are granted.
 There are many tools and libraries like OpenMP and Eigen to exploit multiple
 CPUs in a box.
-Moreover, some tools and libraries provides convevient ways to deploy programs
+Moreover, some tools and libraries provides convenient ways to deploy programs
 onto multiple devices and create a distributed system which consists of
 multiple processes running on them.
+
+I implemented a program as a task of my research work which runs on
+the Slurm cluster and train the Attention Sum Reader model asynchronously.
+In asynchronous training of ML models, their parameters are updated
+asynchronously.
+Then, we can exploit multiple CPUs and GPUs on multipl machines easily.
+Another merit of asynchronous training is that models trained asynchronously
+can be generalized better than models trained synchronously.
+First, the program prepares datasets for training and evaluation fetching some
+files over the Internet.
+Second, it prepares processes of a master and slaves on each node in the
+cluster to start negotiation before training.
+The master process coordinates all processes for training and conduct
+evaluations if requested at the beginning and slaves executes training
+exclusively.
 
 
 ## How to make use of the experience
