@@ -13,6 +13,12 @@ After a while, passengers behind us told that we should push the door.
 We had never known such semi-automatic system.
 People in Chicao were very kind and helpful.
 
+Our apartment was pretty good.
+It was much larger than we thought.
+And, we could see great views of the Michigan lake and Chicago city.
+It also has its own restaurant and grocerry store, which were convenient
+when we don't want to go outside at cold night.
+
 There was a supermarket named Whole Foods near our apartment.
 It was a little more expensive than other ones but sold healthy and organic
 foods of good quality.
