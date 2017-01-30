@@ -151,6 +151,6 @@ They are hosted by some web services like GitHub or BitBucket, where I need
 communication skill in English to work with other developers all over the
 world.
 
-In conclusion, the exeprience that I learned a lot of Machine Learning, computer
-programming, English and more must be great help for me in various scenes
-in my life from now to the future.
+In conclusion, the exeprience that I had learned a lot of Machine Learning,
+computer programming, English and more must be great help for me in various
+scenes in my life from now to the future.
