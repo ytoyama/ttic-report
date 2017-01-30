@@ -40,6 +40,14 @@ called Noodles.
 I ordered a Singapore noodle and it was really good.
 I also became relieved because it was confirmed that we can get some Asian
 foods there.
+In weekdays, we usually went to food trucks to get foods with our Chinese
+friends.
+They sells variety of them, such as hamburgers, sandwiches, tacos and rice
+bowls.
+A few weeks after classes started, Chinese food delivery by a restaurant,
+Sweet Station also started.
+It also dealed in many kinds of Chinese foods from lunchbox-style ones to
+noodles.
 
 
 ## Study
