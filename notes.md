@@ -1,6 +1,6 @@
 ﻿# Report of Internship at Toyota Technological Institute at Chicago
 
-Yota Toyama (Student ID: 16423)
+Yota Toyama (Student ID: 16423), Computational Intelligence Laboratory
 
 
 ## Life
