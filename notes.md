@@ -142,3 +142,15 @@ Honestly speaking, there was some prejudice about Chinese people in my mind.
 It disappeared after talking with them face to face.
 We talked about even sensitive topics from political one to historical one,
 such as Tiananmen Square protests and Nanking massacre.
+I will be an IT engineer and would like to work abroad in the future.
+Then, the experience should be helpful.
+
+Even now, it is working effectively for me.
+I participate some open source projects like TensorFlow daily.
+They are hosted by some web services like GitHub or BitBucket, where I need
+communication skill in English to work with other developers all over the
+world.
+
+In conclusion, the exeprience that I learned a lot of Machine Learning, computer
+programming, English and more must be great help for me in various scenes
+in my life from now to the future.
