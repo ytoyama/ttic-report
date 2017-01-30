@@ -131,6 +131,11 @@ cluster to start negotiation before training.
 The master process coordinates all processes for training and conduct
 evaluations if requested at the beginning and slaves executes training
 exclusively.
+Third, all processes starts running their work and cooperate as a big program.
+I believe that boosts research cyncle enormously because we need to train and
+evaluate a number of models in development of new methods in research.
+In fact, the program reduced time of a cycle of training and evaluating a model
+apporximately linearly.
 
 
 ## How to make use of the experience
